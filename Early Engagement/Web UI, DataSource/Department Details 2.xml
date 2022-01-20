@@ -1,0 +1,9 @@
+<Department>
+    <Employee>
+        <empid>1001 1002 1003</empid>
+        <name>Tom Sam Shiny</name>
+        <salary>20000</salary>
+        <email>tom@gmail.com sam@gmail.com shiny@gmail.com</email>
+        <phoneno>9874563210</phoneno>
+    </Employee>
+</Department>
