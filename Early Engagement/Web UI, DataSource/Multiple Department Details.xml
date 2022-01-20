@@ -1,0 +1,57 @@
+<Departments>
+<Department>
+    <deptid>1</deptid>
+    <dname>Sales</dname>
+    <Employee>
+        <empid>1001</empid>
+        <name>Tom</name>
+        <salary>20000</salary>
+        <email>tom@gmail.com</email>
+        <phoneno>9874563210</phoneno>
+    </Employee>
+</Department>
+<Department>
+   <deptid>1</deptid>
+   <dname>Sales</dname>
+    <Employee>
+        <empid>1002</empid>
+        <name>Sam</name>
+        <salary>25000</salary>
+        <email>sam@gmail.com</email>
+        <phoneno>0</phoneno>
+    </Employee>
+</Department>
+<Department>
+   <deptid>1</deptid>
+   <dname>Sales</dname>
+    <Employee>
+        <empid>1003</empid>
+        <name>Shiny</name>
+        <salary>20000</salary>
+        <email>""</email>
+        <phoneno>9876543210</phoneno>
+    </Employee>
+</Department>
+<Department>
+    <deptid>2</deptid>
+    <dname>Admin</dname>
+    <Employee>
+        <empid>1006</empid>
+        <name>Ram</name>
+        <salary>15000</salary>
+        <email>ram@gmail.com</email>
+        <phoneno>9873214560</phoneno>
+    </Employee>
+</Department>
+<Department>
+   <deptid>2</deptid>
+   <dname>Admin</dname>
+    <Employee>
+        <empid>1007</empid>
+        <name>Gupta</name>
+        <salary>17000</salary>
+        <email>""</email>
+        <phoneno>9632587410</phoneno>
+    </Employee>
+</Department>
+</Departments>
