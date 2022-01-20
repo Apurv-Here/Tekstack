@@ -1,0 +1,10 @@
+<Hotels>
+  <Hotel id= '1'>
+	<Name>TAJ GANJ</Name>
+	<Stars>3</Stars>
+	<Facilities>Restaurant,Parking,Internet</Facilities>
+	<Address>Taj Ganj,FFatehabad Road Agra Uttar Pradesh 282001</Address>
+	<Type>budget</Type>
+	<Available>true</Available>
+	</Hotel>
+</Hotels>
