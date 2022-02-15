@@ -1,2 +1,2 @@
 # Cognizant
-Cognizant is a NASDAQ-100 multinational IT service and consulting based company. It is headquartered in Teaneck, New Jersey, United States.
+Cognizant is an American multinational information technology services and consulting company. It is headquartered in Teaneck, New Jersey, United States. Cognizant is part of the NASDAQ-100 and trades under CTSH. 
